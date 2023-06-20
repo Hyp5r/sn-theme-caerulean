@@ -44,4 +44,13 @@
   --sn-stylekit-scrollbar-thumb-color: var(--sn-stylekit-info-color);
 }
 
+*::-webkit-scrollbar {
+  display: none;
+}
+
+* {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
 /*# sourceMappingURL=dist.css.map */
