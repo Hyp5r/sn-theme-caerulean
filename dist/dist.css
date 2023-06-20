@@ -1,8 +1,8 @@
 :root {
   --foreground-color: #fdf0ed;
-  --background-color: #1a1c23;
-  --highlight-color: #e95379;
-  --border-color: #1a1c23;
+  --background-color: #0c0f11;
+  --highlight-color: #13b6d2;
+  --border-color: #0c0f11;
   --sn-component-foreground-color: var(--foreground-color);
   --sn-component-background-color: transparent;
   --sn-component-foreground-highlight-color: var(--highlight-color);
@@ -15,7 +15,7 @@
   --sn-stylekit-neutral-contrast-color: #fdf0ed;
   --sn-stylekit-success-color: #21bfc2;
   --sn-stylekit-success-contrast-color: #fdf0ed;
-  --sn-stylekit-warning-color: #e95379;
+  --sn-stylekit-warning-color: #13b6d2;
   --sn-stylekit-warning-contrast-color: #fdf0ed;
   --sn-stylekit-danger-color: #fab28e;
   --sn-stylekit-danger-contrast-color: #fdf0ed;
@@ -29,7 +29,7 @@
   --sn-stylekit-contrast-background-color: #16161c;
   --sn-stylekit-contrast-foreground-color: #fdf0ed;
   --sn-stylekit-contrast-border-color: #16161c;
-  --sn-stylekit-secondary-background-color: #1a1c23;
+  --sn-stylekit-secondary-background-color: #0c0f11;
   --sn-stylekit-secondary-foreground-color: #fdf0ed;
   --sn-stylekit-secondary-border-color: #16161c;
   --sn-stylekit-secondary-contrast-background-color: #16161c;
