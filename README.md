@@ -1,15 +1,17 @@
-# Horizon Dark Theme for Standard Notes
+# Caerulean for Standard Notes
 
-Theme for [Standard Notes](https://standardnotes.org/). Based on colors from the [Horizon theme for VSCode](https://github.com/jolaleye/horizon-theme-vscode).
+A dark theme with cyan highlights for [Standard Notes](https://standardnotes.org/). Originally forked from [Horizon Dark](https://github.com/luisstd/sn-theme-horizon-dark), but spun as a separate theme. Give that theme a try, it's one of the best I've personally seen for Standard Notes!
 
-## Preview
+## Features
+> It's a theme, why is there a features section?
 
-![Horizon Dark Theme for Standard Notes](preview.png)
+* Scrollbars are hidden as they personally clash with all themes in SN.
 
-## Installation
+## Screenshots
+_Coming soon!_
 
-Open "Extensions" in Standard Notes and click "Import Extension". Enter the following URL as Extension Link and press Enter:
+## How to Install
 
-```
-https://listed.to/p/U1asXPAO9k
-```
+1. From Standard Notes, open *Preferences*
+2. Click or tap on the *General* tab, then expand the **Advanced options** section at the bottom.
+3. Under *Install External Plugin*, paste the following URL and click on **Install**: `https://listed.hyp5r.io/p/c2wWFzM7zR`
