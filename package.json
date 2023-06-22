@@ -1,13 +1,6 @@
 {
   "name": "sn-theme-horizon-dark-mod",
   "version": "1.0.0",
-  "main": "dist/dist.css",
-  "devDependencies": {
-    "grunt": "^1.0.1",
-    "grunt-contrib-sass": "^2.0.0",
-    "grunt-contrib-watch": "^1.0.0",
-    "grunt-newer": "^1.2.0"
-  },
   "sn": {
     "main": "dist/dist.css"
   },
