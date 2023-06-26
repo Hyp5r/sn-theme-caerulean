@@ -1,0 +1,20 @@
+{
+    "identifier": "io.hyp5r.sn-theme-caerulean-dev",
+    "name": "Caerulean [Dev]",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "version": "1.0.0",
+    "description": "A dark theme with cyan highlights for Standard Notes.",
+    "url": "http://127.0.0.1:3000/StandardNotes/sn-theme-caerulean/theme.css",
+    "download_url": "https://github.com/Hyp5r/sn-theme-caerulean/archive/1.0.0.zip",
+    "latest_url": "http://127.0.0.1:3000/StandardNotes/sn-theme-caerulean/ext.json",
+    "marketing_url": "https://github.com/Hyp5r/sn-theme-caerulean",
+    "thumbnail_url": "https://github.com/Hyp5r/sn-theme-caerulean",
+    "dock_icon": {
+      "type": "circle",
+      "background_color": "#13b6d2",
+      "foreground_color": "#ffffff",
+      "border_color": "#13b6d2"
+    },
+    "statusBar": "dark-content"
+  }
